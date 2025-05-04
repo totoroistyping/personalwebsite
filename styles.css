@@ -1,0 +1,18 @@
+body {
+    font-family:  Geneva, sans-serif;
+    background-color: #dee8dc;
+    color: #7d5c4f;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+p {
+    font-size: 16px;
+}
