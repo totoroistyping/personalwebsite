@@ -33,4 +33,10 @@ a:hover {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    align-content: center;
+}
+.hero {
+    dispaly: flex;
+    flex-direction:row;
+    flex-wrap:wrap;
 }
