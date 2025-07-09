@@ -36,7 +36,7 @@ a:hover {
     align-content: center;
 }
 .hero {
-    dispaly: flex;
-    flex-direction:row;
+    display: flex;
+    flex-direction:row-reverse;
     flex-wrap:wrap;
 }
