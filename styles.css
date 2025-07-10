@@ -10,7 +10,7 @@ h1 {
 }
 
 #mainsubheading {
-    font-size: 30px;
+    font-size: 20px;
 }
 
 h2 {
@@ -48,7 +48,7 @@ a:hover {
 .introduction {
     text-align: center;
 }
-.aboutme {
+.about {
     margin: 10vh 5vw;;
 }
 
