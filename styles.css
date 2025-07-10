@@ -49,6 +49,9 @@ a:hover {
     text-align: center;
 }
 .about {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
     margin: 10vh 5vw;;
 }
 
