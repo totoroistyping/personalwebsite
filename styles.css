@@ -33,12 +33,14 @@ a:hover {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
 }
 .hero {
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: center;
     margin: auto;
 }
 .introduction {
