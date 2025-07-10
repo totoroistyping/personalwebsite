@@ -39,6 +39,7 @@ a:hover {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    margin: auto;
 }
 .introduction {
     text-align: center;
