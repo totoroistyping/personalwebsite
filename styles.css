@@ -43,11 +43,13 @@ a:hover {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    margin: 10vh 5vw;
+    margin: 20vh 5vw 10vh 5vw;
 }
 .introduction {
     text-align: center;
-    margin: 10vh 5vw;
+}
+.aboutme {
+    margin: 10vh 5vw;;
 }
 
 .portfolio.hobbies.connect {
