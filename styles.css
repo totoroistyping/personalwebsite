@@ -33,9 +33,19 @@ a:hover {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    align-items: center;
+    justify-content: space-evenly;
 }
 .hero {
-    display: inline-block;
-    vertical-align: middle;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
+.introduction {
+    text-align: center;
+}
+
+.portfolio.hobbies.connect {
+    text-align: center;
+    margin: auto;
+}
+
