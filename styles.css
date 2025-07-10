@@ -34,8 +34,9 @@ a:hover {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-    padding:0 10vw;
     text-align: center;
+    align-items: center;
+    height: 10vh;
 }
 .hero {
     display: flex;
